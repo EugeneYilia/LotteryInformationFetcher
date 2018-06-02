@@ -6,7 +6,10 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e64cd852-dbb0-469d-a9a8-c42e696add13" name="Default" comment="" />
+    <list default="true" id="e64cd852-dbb0-469d-a9a8-c42e696add13" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -41,8 +44,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/spider/lottery/football/Win_Draw_Lose_Odds.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-12158">
-              <caret line="214" column="59" lean-forward="true" selection-start-line="214" selection-start-column="59" selection-end-line="214" selection-end-column="59" />
+            <state relative-caret-position="59">
+              <caret line="857" column="21" lean-forward="true" selection-start-line="857" selection-start-column="21" selection-end-line="857" selection-end-column="21" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -93,6 +96,9 @@
       </file>
     </leaf>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -123,6 +129,7 @@
     <option name="width" value="1386" />
     <option name="height" value="1756" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectUserFactors">
     <factor id="binaryFeature:liftShorter">
       <dailyData date="2-6-2018">
@@ -565,7 +572,7 @@
       <option name="ACTIVITY_CLASS" value="" />
       <method v="2">
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1527925497087" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1527926019222" />
       </method>
     </configuration>
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Instrumented Tests">
@@ -589,7 +596,7 @@
       </Profilers>
       <method v="2">
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1527925497078" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1527926019214" />
       </method>
     </configuration>
     <configuration name="Bootstrap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -621,15 +628,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1527921285402</updated>
-      <workItem from="1527921289373" duration="2995000" />
+      <workItem from="1527921289373" duration="3513000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2995000" />
+    <option name="totallyTimeSpent" value="3513000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1381" height="885" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="JRebel" side_tool="true" />
       <window_info id="Image Layers" />
@@ -644,7 +652,7 @@
       <window_info anchor="bottom" id="Messages" weight="0.32893" />
       <window_info anchor="bottom" id="Atlassian " />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="JRebel Executor" />
       <window_info anchor="bottom" id="JRebel Console" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -732,8 +740,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/spider/lottery/football/Win_Draw_Lose_Odds.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-12158">
-          <caret line="214" column="59" lean-forward="true" selection-start-line="214" selection-start-column="59" selection-end-line="214" selection-end-column="59" />
+        <state relative-caret-position="59">
+          <caret line="857" column="21" lean-forward="true" selection-start-line="857" selection-start-column="21" selection-end-line="857" selection-end-column="21" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
