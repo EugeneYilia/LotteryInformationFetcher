@@ -12,6 +12,6 @@ public class Bootstrap {
             public void run() {
                 new Win_Draw_Lose_Odds().start();
             }
-        }, 0, 35, TimeUnit.MINUTES);
+        }, 0, 20, TimeUnit.MINUTES);
     }
 }

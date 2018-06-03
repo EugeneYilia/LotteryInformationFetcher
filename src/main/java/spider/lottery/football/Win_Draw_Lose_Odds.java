@@ -13,7 +13,9 @@ import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.SQLException;
 import java.text.DecimalFormat;
+import java.text.SimpleDateFormat;
 import java.util.ArrayList;
+import java.util.Date;
 import java.util.StringTokenizer;
 
 public class Win_Draw_Lose_Odds {
@@ -55,7 +57,12 @@ public class Win_Draw_Lose_Odds {
     DecimalFormat decimalFormat = new DecimalFormat("0.0");//保留一位小数，四舍五入
 
     public void start() {
+        Date startDate = new Date();
         saveInformationsToDatabase();
+        Date endDate = new Date();
+        System.out.println("最后一次更新完数据时间为" + new SimpleDateFormat("yyyy-MM-dd HH:mm:ss").format(endDate));
+        Long timeDifference = endDate.getTime() - startDate.getTime();
+        System.out.println("执行一次爬取所用的时间为" + (timeDifference / (1000 * 60)) + "分" + (timeDifference / 1000) + "秒");
         //testSaveToDatabase();
     }
 
