@@ -62,7 +62,7 @@ public class Win_Draw_Lose_Odds {
         Date endDate = new Date();
         System.out.println("最后一次更新完数据时间为" + new SimpleDateFormat("yyyy-MM-dd HH:mm:ss").format(endDate));
         Long timeDifference = endDate.getTime() - startDate.getTime();
-        System.out.println("执行一次爬取所用的时间为" + (timeDifference / (1000 * 60)) + "分" + (timeDifference / 1000) + "秒");
+        System.out.println("执行一次爬取所用的时间为" + ((timeDifference / 1000) / 60) + "分" + ((timeDifference / 1000) % 60) + "秒");
         //testSaveToDatabase();
     }
 

@@ -8,13 +8,7 @@
   <component name="ChangeListManager">
     <list default="true" id="e64cd852-dbb0-469d-a9a8-c42e696add13" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/LotteryInformationFetcher_jar/LotteryInformationFetcher.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/LotteryInformationFetcher_jar/META-INF/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/LotteryInformationFetcher_jar/fastjson-1.2.47.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/LotteryInformationFetcher_jar/jsoup-1.11.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/LotteryInformationFetcher_jar/mysql-connector-java-5.1.35.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/spider/bootstrap/Bootstrap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/spider/bootstrap/Bootstrap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/spider/lottery/football/Win_Draw_Lose_Odds.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/spider/lottery/football/Win_Draw_Lose_Odds.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spider/bootstrap/Bootstrap.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/spider/bootstrap/Bootstrap.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/spider/lottery/football/Win_Draw_Lose_Odds.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/spider/lottery/football/Win_Draw_Lose_Odds.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -48,8 +42,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/spider/lottery/football/Win_Draw_Lose_Odds.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="178">
-              <caret line="64" column="89" selection-start-line="64" selection-start-column="89" selection-end-line="64" selection-end-column="89" />
+            <state relative-caret-position="75">
+              <caret line="74" column="40" lean-forward="true" selection-start-line="74" selection-start-column="40" selection-end-line="74" selection-end-column="40" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -840,7 +834,7 @@
       <option name="ACTIVITY_CLASS" value="" />
       <method v="2">
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1528052305677" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1528052619098" />
       </method>
     </configuration>
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Instrumented Tests">
@@ -864,7 +858,7 @@
       </Profilers>
       <method v="2">
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1528052305680" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1528052619099" />
       </method>
     </configuration>
     <configuration name="Bootstrap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -899,18 +893,17 @@
       <workItem from="1527921289373" duration="3513000" />
       <workItem from="1527928040770" duration="326000" />
       <workItem from="1527934933225" duration="1174000" />
-      <workItem from="1528051690574" duration="568000" />
+      <workItem from="1528051690574" duration="896000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5581000" />
+    <option name="totallyTimeSpent" value="5909000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1381" height="885" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.19849056" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19849056" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="JRebel" order="3" side_tool="true" />
@@ -925,11 +918,11 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.7909968" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.7899604" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="9" weight="0.32893" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="11" />
+      <window_info anchor="bottom" id="Version Control" order="11" weight="0.32893" />
       <window_info anchor="bottom" id="JRebel Console" order="12" side_tool="true" />
       <window_info anchor="bottom" id="JRebel Executor" order="13" />
       <window_info anchor="bottom" id="Atlassian " order="14" />
@@ -1006,8 +999,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/spider/lottery/football/Win_Draw_Lose_Odds.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="178">
-          <caret line="64" column="89" selection-start-line="64" selection-start-column="89" selection-end-line="64" selection-end-column="89" />
+        <state relative-caret-position="75">
+          <caret line="74" column="40" lean-forward="true" selection-start-line="74" selection-start-column="40" selection-end-line="74" selection-end-column="40" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
